@@ -1,0 +1,42 @@
+html{
+    background-color:cyan
+}
+
+div{
+    display: inline-block;
+    
+  }
+
+img{
+    float:left;
+    width: 200;
+    margin: 20;
+    border: 500px;
+ }
+
+h1{
+   text-align: center;
+   color:brown;
+   font-weight: 1000;
+   font-style: italic;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+ }
+
+ p{
+    font-family:'Times New Roman';
+    font-weight: 100;
+    font-style: italic;
+    color:blue
+ }
+
+footer{
+    font-family:'Times New Roman';
+    font-weight: 100;
+    font-style: italic;
+    text-align: right;
+    color:darkred
+
+}
+
+
+
